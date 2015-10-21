@@ -21,4 +21,4 @@
 2. 在Gitbook里折腾了好不会儿，但其实也只是把刚刚fork的github仓库import到gitbook里来，授权一下账户什么的，就自动绑定好了。
 	Gitbook和Github都有线上的编辑器，但是其实这里的意思应该是让你把repository clone到自己的电脑上，在电脑上编辑文档，再commit到github里，最终同步到gitbook。
 	关于Gitbook中Disqus评论框plugin的配置方法，我自己研究了好久都没成功，还装了一堆node.js之类的东西，还是我朋友谷溪比较牛逼，看了他写的[教程](https://zjuguxi.gitbooks.io/hard-way-to-python/content/week/disqus.html)瞬间搞定。
-3. 未完成
+3. 本来以为要自己写一段辣么复杂的代码，吓我一跳，其实原来只是把那段代码复制到自己文档里面run以下就好。。。哎这个还是比较顺利的。
